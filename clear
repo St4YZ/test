@@ -1,0 +1,119 @@
+[33mcommit aac56b153607b1ee1e8af48cda6d381c524ec9fa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Fri Jul 29 17:42:45 2022 +0300
+
+    i dont know what to commit
+
+[33mcommit 508b6e97e9ff06f2ffc36d49b1e436574d8bde7b[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 63e5ce2 ffe4e08
+Author: unknown <st4yzwd@gmail.com>
+Date:   Fri Jul 29 00:59:31 2022 +0300
+
+    changes are approved
+
+[33mcommit 63e5ce2f6f0a217750e7549ddcf75be229891d0d[m[33m ([m[1;31morigin/new_file_edit[m[33m, [m[1;32mnew_file_edit[m[33m)[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Fri Jul 29 00:57:09 2022 +0300
+
+    edit2023
+
+[33mcommit ffe4e0826677c1f9f4db3490ad367aa8ed3703a3[m
+Author: St4YZ <57144223+St4YZ@users.noreply.github.com>
+Date:   Fri Jul 29 00:56:20 2022 +0300
+
+    Update new.file
+
+[33mcommit a2c888bcdf96cade49f21b75913e85d444604af6[m
+Merge: b4258ca df61308
+Author: unknown <st4yzwd@gmail.com>
+Date:   Fri Jul 29 00:53:52 2022 +0300
+
+    Merge branch 'main' of https://github.com/St4YZ/test
+
+[33mcommit b4258ca9fa494f3a593d56b5f0e432c9a534dc75[m[33m ([m[1;31morigin/second_branch[m[33m, [m[1;32msecond_branch[m[33m)[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Fri Jul 29 00:52:45 2022 +0300
+
+    add second.file
+
+[33mcommit df61308c845b2fa21a2e73b1a07de313b8152559[m
+Author: St4YZ <57144223+St4YZ@users.noreply.github.com>
+Date:   Fri Jul 29 00:50:54 2022 +0300
+
+    Conflict branch info
+
+[33mcommit b27da0084150aaaafe66d73a9d1a18362b195607[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Fri Jul 29 00:49:26 2022 +0300
+
+    new commit
+
+[33mcommit ea9c62b6b4dfe6b2cc31a09a283667ef3c442b73[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 19:26:16 2022 +0300
+
+    Conflict
+
+[33mcommit 5ea1e7ad755c0b002e31b605a6fd655a2418160a[m
+Merge: 8749c07 882bf26
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 19:02:17 2022 +0300
+
+    test
+
+[33mcommit 8749c079b11885e6bfebe0de5e747c3e19d589ac[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 18:59:29 2022 +0300
+
+    Test
+
+[33mcommit 882bf2623b4df8fd3fe183347cd8a35b04468a90[m
+Author: St4YZ <57144223+St4YZ@users.noreply.github.com>
+Date:   Thu Jul 28 18:58:25 2022 +0300
+
+    Update File1.txt
+
+[33mcommit 76cb88dc968f1f770863faa172855c8651b7d49b[m
+Merge: d936286 42ef6cb
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 18:54:15 2022 +0300
+
+    Merge branch 'main' of https://github.com/St4YZ/test
+
+[33mcommit 42ef6cbfdb6b71997fdf3e821a5278622450388d[m
+Author: St4YZ <57144223+St4YZ@users.noreply.github.com>
+Date:   Thu Jul 28 18:53:31 2022 +0300
+
+    Create Conflict
+
+[33mcommit d93628631f06cf24ac88cecd83a676159a7262db[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 18:53:01 2022 +0300
+
+    test
+
+[33mcommit ab00b149d636cb57b69226dbdc2edf90aac2ecab[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 18:52:02 2022 +0300
+
+    New commit
+
+[33mcommit b8a303ca79fbd2de9ce19a2f12b02a7617ba57bd[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 18:03:03 2022 +0300
+
+    New commit
+
+[33mcommit 8bee02ecae68a8b08446c754012ebe018f4c203a[m
+Author: St4YZ <57144223+St4YZ@users.noreply.github.com>
+Date:   Thu Jul 28 17:06:26 2022 +0300
+
+    Update File1.txt
+    
+    Adding a new line (5)
+
+[33mcommit b9b6db83fb1e8038e47eeb7d6f9392e7cde17346[m
+Author: unknown <st4yzwd@gmail.com>
+Date:   Thu Jul 28 16:42:47 2022 +0300
+
+    test commit 1
